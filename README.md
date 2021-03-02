@@ -1,25 +1,4 @@
-Tableau Homework - Citi Bike Analytics
-
-Before You Begin
-
-
-This assignment will be saved to your tableau public account rather than github.
-
-
-If you haven't already, be sure to create a tableau public account here.
-
-
-The free tier of tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your tableau public profile.
-
-
-You are able to load and continue working on the same workbook.
-
-
-When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis.
-
-
-
-Background
+Citi Bike Analytics
 
 Congratulations on your new job! As the new lead analyst for the New York Citi Bike Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
